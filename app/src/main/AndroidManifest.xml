@@ -5,7 +5,7 @@
         android:allowBackup="true"
         android:label="TankSide"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
+        android:theme="@style/AppTheme">
 
         <activity
             android:name=".MainActivity"
